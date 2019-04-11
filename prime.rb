@@ -1,4 +1,4 @@
 def prime?(number)
   return if <= 1
-  (2..math)
+  (2..Math.sqrt)
 end
