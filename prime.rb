@@ -3,5 +3,6 @@ def prime?(number)
   
   (2..num).each do |factor|
     if (num % factor).zero?
+      return false
       
 end
