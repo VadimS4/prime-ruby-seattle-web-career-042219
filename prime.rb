@@ -1,4 +1,3 @@
 def prime?(number)
-  check = false
-  count = 2
+  false if num < 2
 end
